@@ -4,7 +4,7 @@
 
 参加 Aholo 3D AI 黑客松的作品。场景里的建筑、道具和角色都用 Aholo Lux3D 生成，用 Unity 2022.3（URP）搭成可以玩的小镇。
 
-**Windows 试玩版** · [下载 TideTown-Windows.zip](https://github.com/forkseek/eggboy-still-delivering/releases/download/windows-2026-11-16/TideTown-Windows.zip)
+**Windows 试玩版** · [下载 TideTown-Windows.zip](https://github.com/forkseek/eggboy-still-delivering/releases/download/windows-2026-11-16/TideTown-Windows.zip)（2026-11-18 更新构建）
 
 解压整个 ZIP 后，双击 `TideTown.exe` 开始。 [更新说明](https://github.com/forkseek/eggboy-still-delivering/releases/tag/windows-2026-11-16) · [实机画面](docs/evidence/windows-2026-11-16/interface.jpg)
 
